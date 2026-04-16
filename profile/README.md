@@ -1,24 +1,22 @@
-# Embtel Web Solutions Pvt Ltd
+# Embtel Web Solutions
 
-📍 Zirakpur, India.  
-
-🌐 Delivering smart, scalable, and cost-effective digital solutions for modern businesses.
+Delivering smart, scalable, and cost-effective digital solutions for modern businesses.
 Embtel Solutions is a forward-thinking technology services company specializing in high-quality web applications, AI-powered systems, and cloud-based automation. We empower businesses to streamline operations, enhance efficiency, and accelerate digital growth with innovative and reliable solutions.
 
 ---
 
-## 💼 Our Services
+##  Our Services
 
-* 🌐 **Web Development** – Modern, responsive web applications using React, Angular & Vue
-* ⚙️ **Backend Development** – Scalable APIs & systems (Node.js, Spring Boot)
-* 📱 **Mobile App Development** – Android & cross-platform solutions
-* 🤖 **AI & Automation** – Intelligent systems for real-world problem solving
-* ☎️ **Cloud Telephony Solutions** – Twilio integration, call automation & analytics
-* 🔗 **API Integration** – CRM, payment gateways, and third-party services
+*  **Web Development** – Modern, responsive web applications using React, Angular & Vue
+*  **Backend Development** – Scalable APIs & systems (Node.js, Spring Boot)
+*  **Mobile App Development** – Android & cross-platform solutions
+*  **AI & Automation** – Intelligent systems for real-world problem solving
+*  **Cloud Telephony Solutions** – Twilio integration, call automation & analytics
+*  **API Integration** – CRM, payment gateways, and third-party services
 
 ---
 
-## 🧠 Our Expertise
+##  Our Expertise
 
 * Real-time applications (tracking systems, dashboards)
 * SaaS product development
@@ -28,7 +26,7 @@ Embtel Solutions is a forward-thinking technology services company specializing 
 
 ---
 
-## 📂 Case Studies
+##  Case Studies
 
 
 
@@ -48,31 +46,36 @@ Embtel Solutions is a forward-thinking technology services company specializing 
 
 ---
 
-## 🤝 Why Choose Embtel Solutions?
+##  Why Choose Embtel Solutions?
 
-* ✔️ Client-focused development approach
-* ✔️ Scalable & clean architecture
-* ✔️ Fast delivery & agile workflow
-* ✔️ Expertise in modern technologies
-
----
-
-## 👥 Our Team
-
-* 👨‍💻 Developers skilled in full-stack & AI solutions
-* 🤖 Automation & integration experts
-* 🎯 Focused on delivering business value
+* Client-focused development approach
+* Scalable & clean architecture
+* Fast delivery & agile workflow
+* Expertise in modern technologies
 
 ---
 
-## 📫 Contact Us
+## Our Team
 
-📧 Email: [embtelsolutions@gmail.com](mailto:embtelsolutions@gmail.com)
-📍 Location: Zirakpur, Punjab, India
+*  Developers skilled in full-stack & AI solutions
+*  Automation & integration experts
+*  Focused on delivering business value
 
 ---
 
-## 🌟 Our Mission
+##  Contact Us
+
+Email: [sales@embtelsolutions.com](mailto:sales@embtelsolutions.com)  
+
+US - HEADQUARTERS
+39159 Paseo Padre Pkwy #119, Fremont, CA 94538, USA  
+
+INDIA - BRANCH
+SCO-12, A-Block, 2nd Floor, CCC, VIP Road, Zirakpur, Punjab, India - 140603  
+
+---
+
+## Our Mission
 
 To empower businesses with innovative technology solutions that drive growth, efficiency, and digital transformation.
 
