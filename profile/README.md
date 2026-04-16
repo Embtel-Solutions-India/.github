@@ -1,4 +1,3 @@
-# Embtel Solutions
 
 Delivering smart, scalable, and cost-effective digital solutions for modern businesses.
 Embtel Solutions is a forward-thinking technology services company specializing in high-quality web applications, AI-powered systems, and cloud-based automation. We empower businesses to streamline operations, enhance efficiency, and accelerate digital growth with innovative and reliable solutions.
