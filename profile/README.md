@@ -32,7 +32,7 @@ Embtel Solutions is a forward-thinking technology services company specializing 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend:** React, Tailwind CSS, Bootstrap  
 
