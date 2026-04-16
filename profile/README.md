@@ -1,4 +1,4 @@
-# Embtel Web Solutions
+# Embtel Solutions
 
 Delivering smart, scalable, and cost-effective digital solutions for modern businesses.
 Embtel Solutions is a forward-thinking technology services company specializing in high-quality web applications, AI-powered systems, and cloud-based automation. We empower businesses to streamline operations, enhance efficiency, and accelerate digital growth with innovative and reliable solutions.
@@ -69,9 +69,7 @@ Email: [sales@embtelsolutions.com](mailto:sales@embtelsolutions.com)
 
 US - HEADQUARTERS
 39159 Paseo Padre Pkwy #119, Fremont, CA 94538, USA  
-
-INDIA - BRANCH
-SCO-12, A-Block, 2nd Floor, CCC, VIP Road, Zirakpur, Punjab, India - 140603  
+  
 
 ---
 
