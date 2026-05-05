@@ -25,12 +25,6 @@ Embtel Solutions is a forward-thinking technology services company specializing 
 
 ---
 
-##  Case Studies
-
-
-
----
-
 ## Tech Stack
 
 **Frontend:** React, Tailwind CSS, Bootstrap  
